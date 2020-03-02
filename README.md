@@ -1,6 +1,8 @@
 # todo-app
 todo-app is an application written in JavaScript for creating a todo list. The todos can be filtered according to a search string or if they are completed.
 
+The app is currently only a frontend, and the todos are stored in the browser's `window.localStorage` object.
+
 You can try out the todo-app at https://stjernholm-todo.surge.sh/
 
 ## How to use the code
